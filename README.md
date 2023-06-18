@@ -8,7 +8,7 @@ The flag model is designed using Blender Mesh Subdivide(20), and the simulation 
 
 
 ## Features
-- Real-time wind speed and direction updates from Seoul Meteorological Agency Information API. (dx: 60, dy : 126 > Seoul Meteorological Administration Transformation Grid Coordinates)
+- Real-time wind speed and direction updates from Seoul Meteorological Agency Information API. (dx: 60, dy : 126 > Seoul Hangang-daero, Yongsan-gu Meteorological Administration Transformation Grid Coordinates)
 - Unity Cloth Physics to simulate the flag movement realistically.
 - Use of Litjson for parsing API responses.
 - Shader Graph for visually realistic flag rendering.
@@ -21,7 +21,7 @@ Blender 2.9 or later
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/winterrat/Unity_Seoul_Wind.git
+git clone https://github.com/winterrat/Unity_Wind_Flag.git
 ```
 - Import the project:
 
