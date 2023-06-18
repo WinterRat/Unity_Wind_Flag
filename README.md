@@ -3,8 +3,8 @@
 This project demonstrates a real-time flag simulation in Unity, reacting to live weather data from the Seoul Real-time Meteorological Agency Information API. 
 The flag model is designed using Blender Mesh Subdivide(20), and the simulation uses Unity Cloth Physics, Litjson plugin, and Shader Graph to create a realistic, wind-responsive flag effect.
 
-![ezgif com-video-to-gif](https://github.com/WinterRat/Unity_Seoul_Wind/assets/126951066/4bb160fc-5359-4e27-bedb-4388721580d1)
-<img width="977" alt="Flagpp" src="https://github.com/WinterRat/Unity_Seoul_Wind/assets/126951066/1d91da58-29b8-4c59-867d-d155f5ca36be">
+![ezgif com-video-to-gif](https://github.com/WinterRat/Unity_Wind_Flag/assets/126951066/9947053c-e96f-4198-811f-ea6e0a615f4f)
+<img width="977" alt="Flagpp" src="https://github.com/WinterRat/Unity_Wind_Flag/assets/126951066/80c7720e-c5ec-4486-ac51-2130f74200ab">
 
 
 ## Features
